@@ -2,3 +2,5 @@
 ## Команды гит
 ### git config --list все настройки системы
 ### git --help выводит общую документацию по git
+### git config --global user.name "имя" создание имя пользовавтеля
+### git config --global user.email "почта" ввод адреса почты
