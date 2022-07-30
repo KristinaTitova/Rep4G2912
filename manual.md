@@ -4,3 +4,5 @@
 ### git --help выводит общую документацию по git
 ### git config --global user.name "имя" создание имя пользовавтеля
 ### git config --global user.email "почта" ввод адреса почты
+### git init создание скрытой папки
+### git add добавление папки в область
